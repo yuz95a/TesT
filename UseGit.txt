@@ -1,0 +1,8 @@
+Upload: add -> commit -> push
+
+
+git add *
+
+git commit -m "commit content"
+
+git push origin main
