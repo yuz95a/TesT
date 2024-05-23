@@ -4,4 +4,4 @@
 
 ## 두번째
 
-[Read Second](Second_Read.md) 를 참조하십시오.
+[Read Second](Read_Second.md) 를 참조하십시오.
